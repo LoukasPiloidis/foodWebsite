@@ -10,6 +10,7 @@
   margin: 0 auto;
 }
 header {
+  padding: 1%;
   border-bottom: 1px solid gray;
 }
 
@@ -30,7 +31,21 @@ header a:hover {
 }
 
 .main-content {
-  margin: 1% auto;
+  padding: 3%;
+  background-color: #f1f2f6;
+}
+
+.main-content__main-div {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.col-4 {
+  width: 15%;
+  background-color: white;
+  margin: 1%;
+  padding: 2%;
+  text-align: center;
 }
 
 footer {
