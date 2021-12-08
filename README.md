@@ -14,3 +14,4 @@ Database --> MySQL
 # Credits
 
 This app is currently developed by Loukas Piloidis. It is still in its backbone, but it progresses slowly but surely, with daily commits.
+
